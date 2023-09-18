@@ -1,0 +1,25 @@
+@font-face {
+  font-family: 'Jost';
+  font-style:  normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('./Jost-Regular.woff2') format('woff2'),
+       url('./Jost-Regular.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Jost';
+  font-style:  normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url('./Jost-SemiBold.woff2') format('woff2'),
+       url('./Jost-SemiBold.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'DM Serif Display';
+  font-style: normal;
+  font-weight: 400;
+  src: url('./DMSerifDisplay-Regular.woff2') format('woff2'),
+       url('./DMSerifDisplay-Regular.woff') format('woff');
+}

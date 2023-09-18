@@ -1,0 +1,41 @@
+.header{
+  display: flex;
+  justify-content: space-between;
+}
+
+.header__logo-link{
+
+}
+
+.header__logo{
+
+}
+
+.header__navigation{
+  display: flex;
+  align-items: center;
+}
+
+.header__list{
+  list-style-type: none;
+  display: flex;
+  justify-content: space-around;
+  width: 572px;
+}
+
+.header__item{
+
+}
+
+.header__navigation-link{
+  font-family: Jost;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 25px;
+  text-decoration: none;
+  color: #292F36;
+}
+
+.header__navigation-search{
+
+}
